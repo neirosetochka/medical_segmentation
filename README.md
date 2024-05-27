@@ -13,5 +13,5 @@
 $$\ss
 $$
 Для обучения использовались следующие loss-функции:
-$$\mathcal L_{BCE} = ^{y} - y^{y} + \log\left(1+\exp(-^{y})\right)$$
+$$\mathcal L_{BCE} = ^{y} - y ^{y} + \log\left(1+\exp(- ^{y})\right)$$
 $$\mathcal L_{focal}(y, ^{y}) = -\sum_i \left[\left(1-\sigma(^{y}_i)\right)^\gamma y_i\log\sigma(^{y}_i) + (1-y_i)\log(1-\sigma(^{y}_i))\right]$$
