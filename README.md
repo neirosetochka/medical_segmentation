@@ -1,8 +1,7 @@
 # Сегментация медицинских снимков
 Я решала задачу сегментации мединских снимков: фото меланом и родинок. Датасет - [ссылка](https://www.fc.up.pt/addi/ph2%20database.html).
 <p align="center">
-<img src="https://github.com/neirosetochka/medical_segmentation/assets/72963340/b330cf4a-fca0-454f-97f5-175f6c3111e0">
-"> 
+<img src="https://github.com/neirosetochka/medical_segmentation/assets/72963340/99cde7a0-203c-4637-b42f-37f1ab084f4e">
 </p>
 Для этого по официальным статьям из архива были с нуля написаны SegNet и UNet:
 <p float="left">
