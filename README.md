@@ -5,7 +5,10 @@
 </p>
 Для этого по официальным статьям из архива были с нуля написаны SegNet и UNet:
 <p align="center">
-<img src="https://github.com/neirosetochka/medical_segmentation/assets/72963340/823e99b6-28a7-440e-bfac-5a1e20b7141e">
+<img src="https://github.com/neirosetochka/medical_segmentation/assets/72963340/823e99b6-28a7-440e-bfac-5a1e20b7141e" width=80%>
+</p>
+<p align="center">
+<img src="https://github.com/neirosetochka/medical_segmentation/assets/72963340/ca1912d9-b068-42ea-9285-376630d8687b" width=60%>
 </p>
 Метрика - IoU. Функций обучения было несколько:
 $$\mathcal L_{BCE} = ^{y} - y^{y} + \log\left(1+\exp(-^{y})\right)$$
