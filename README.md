@@ -10,6 +10,8 @@
 <p align="center">
 <img src="https://github.com/neirosetochka/medical_segmentation/assets/72963340/ca1912d9-b068-42ea-9285-376630d8687b" width=60%>
 </p>
+$$ss
+$$
 Для обучения использовались следующие loss-функции:
-$$L_{BCE} = ^{y} - y^{y} + \log\left(1+\exp(-^{y})\right)$$
-$$L_{focal}(y, ^{y}) = -\sum_i \left[\left(1-\sigma(^{y}_i)\right)^\gamma y_i\log\sigma(^{y}_i) + (1-y_i)\log(1-\sigma(^{y}_i))\right]$$
+$$\mathcal L_{BCE} = ^{y} - y^{y} + \log\left(1+\exp(-^{y})\right)$$
+$$\mathcal L_{focal}(y, ^{y}) = -\sum_i \left[\left(1-\sigma(^{y}_i)\right)^\gamma y_i\log\sigma(^{y}_i) + (1-y_i)\log(1-\sigma(^{y}_i))\right]$$
