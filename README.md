@@ -1,5 +1,5 @@
 # Сегментация медицинских снимков
-Я решала задачу сегментации мединских снимков: фото меланом и родинок. Датасет - [ссылка](https://www.fc.up.pt/addi/ph2%20database.html).
+Я решала задачу сегментации медицинских снимков: фото меланом и родинок. Датасет - [ADDI project](https://www.fc.up.pt/addi/ph2%20database.html).
 <p align="center">
 <img src="https://github.com/neirosetochka/medical_segmentation/assets/72963340/99cde7a0-203c-4637-b42f-37f1ab084f4e">
 </p>
