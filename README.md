@@ -4,8 +4,8 @@
 <img src="https://github.com/neirosetochka/medical_segmentation/assets/72963340/99cde7a0-203c-4637-b42f-37f1ab084f4e" width=80%>
 </p>
 Для этого по официальным статьям из архива были с нуля написаны SegNet и UNet:
-<p float="left"> 
-<img scr="https://github.com/neirosetochka/medical_segmentation/assets/72963340/5d229213-41b1-4ad3-86e3-b11808bc82c5" width=90%/> 
+<p align="center">
+<img src="https://github.com/neirosetochka/medical_segmentation/assets/72963340/823e99b6-28a7-440e-bfac-5a1e20b7141e">
 </p>
 Метрика - IoU. Функций обучения было несколько:
 $$\mathcal L_{BCE} = ^{y} - y^{y} + \log\left(1+\exp(-^{y})\right)$$
