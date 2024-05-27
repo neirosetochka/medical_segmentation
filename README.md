@@ -1,12 +1,13 @@
 # Сегментация медицинских снимков
 Я решала задачу сегментации медицинских снимков: фото меланом и родинок. Датасет - [ADDI project](https://www.fc.up.pt/addi/ph2%20database.html).
 <p align="center">
-<img src="https://github.com/neirosetochka/medical_segmentation/assets/72963340/99cde7a0-203c-4637-b42f-37f1ab084f4e" width=60%>
+<img src="https://github.com/neirosetochka/medical_segmentation/assets/72963340/99cde7a0-203c-4637-b42f-37f1ab084f4e" width=80%>
 </p>
 Для этого по официальным статьям из архива были с нуля написаны SegNet и UNet:
-<p float="left">
-  <img src="https://github.com/neirosetochka/medical_segmentation/assets/72963340/15ce45f2-cab3-44d1-971f-03cc173f2fb9" width=40% /> 
-  <img src="https://github.com/neirosetochka/medical_segmentation/assets/72963340/e6398325-b817-4fdd-858d-d0514e681afd" width=50% />
+<p align="center">  <img scr="https://github.com/neirosetochka/medical_segmentation/assets/72963340/6292a2f3-f655-435e-93f2-b9ae341ec5de" width=80%> 
+</p>
+<p align="center">
+  <img src="https://github.com/neirosetochka/medical_segmentation/assets/72963340/15ce45f2-cab3-44d1-971f-03cc173f2fb9" width=80%> 
 </p>
 Метрика - IoU. Функций обучения было несколько:
 $$\mathcal L_{BCE} = ^{y} - y^{y} + \log\left(1+\exp(-^{y})\right)$$
