@@ -3,7 +3,7 @@
 <p align="center">
 <img src="https://github.com/neirosetochka/medical_segmentation/assets/72963340/99cde7a0-203c-4637-b42f-37f1ab084f4e" width=80%>
 </p>
-Для этого по официальным статьям из архива были с нуля написаны SegNet и UNet:
+Для этого по оригинальным статьям были с нуля написаны SegNet и UNet:
 <p align="center">
 <img src="https://github.com/neirosetochka/medical_segmentation/assets/72963340/823e99b6-28a7-440e-bfac-5a1e20b7141e" width=80%>
 </p>
